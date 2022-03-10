@@ -1,0 +1,64 @@
+{
+  "snacks": [
+    {
+      "id": 1,
+       "title":"Chips",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 2,
+       "title":"Layzs",
+       "brand":"Haldiram",
+       "price":"50Rs"
+    },
+     {
+      "id": 3,
+       "title":"KurKure",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 4,
+       "title":"Allusev",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 5,
+       "title":"Tkatak",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 6,
+       "title":"tedemede",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 7,
+       "title":"Crunchy",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 8,
+       "title":"MasalaMunch",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 9,
+       "title":"MasalaMunch",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    },
+     {
+      "id": 10,
+       "title":"Yummy",
+       "brand":"Haldiram",
+       "price":"5Rs"
+    }
+  ]
+}
